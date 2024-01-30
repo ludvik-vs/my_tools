@@ -1,7 +1,8 @@
-![En construcción](https://img.shields.io/badge/En%20construcción-red?style=for-the-badge)
+⚠ ![En construcción](https://img.shields.io/badge/En%20construcción-red?style=for-the-badge) ⚠
 
 
-🐍 PYTHON TOOLS ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+ # PYTHON TOOLS 🐍
 
 ### clean_py 
 __Descripcion__: Limpia todos los paquetes de tu interprete de python.
@@ -9,6 +10,7 @@ __Descripcion__: Limpia todos los paquetes de tu interprete de python.
 2. En la consola ejecutar "pip freeze > requirements.txt"
 3. En la consola ejecutar "python clean_python.py" 
 
-🎨JAVASCRIPT TOOLS ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+# JAVASCRIPT TOOLS 🎨 
 
-### "build"
+### build
